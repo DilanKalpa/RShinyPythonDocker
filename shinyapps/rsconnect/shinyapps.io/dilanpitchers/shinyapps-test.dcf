@@ -1,0 +1,12 @@
+name: shinyapps-test
+title: shinyapps-test
+username:
+account: dilanpitchers
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1642519
+bundleId: 2718291
+url: https://dilanpitchers.shinyapps.io/shinyapps-test/
+when: 1578616688.17618
+asMultiple: FALSE
+asStatic: FALSE
